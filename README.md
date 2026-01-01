@@ -87,7 +87,7 @@ Execution comments were added wherever applicable to capture observations and li
 
 ### Execution Trend Over Time
 
-![Execution Trend Over Time](Test-Execution/TestRail-stats-2-20260101170030.png)
+![Execution Trend Over Time](Test-Execution/Testrail-activity-12-27-2025-01-01-2026.png)
 
 ### Test Case Status Distribution
 
